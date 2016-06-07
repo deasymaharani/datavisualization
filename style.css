@@ -1,0 +1,52 @@
+.heading{
+	text-align: center;
+	color:#000066;
+	font-family: arial;
+	font-size:40px;
+}
+
+.description{
+	background-color:#ffffb3;
+	color:#787878;
+	border: 5px;
+	border-left-style: solid;
+    border-color: black;
+	font-size:18px;
+	padding: 10px;
+    width: 1000px;
+    font-family: arial;
+
+}
+
+.im{
+	justify-content: center;
+}
+
+.image{
+	width: 300px;
+}
+
+.chart{
+	text-align: center;
+	width: 400px;
+    height: 100px;
+}
+
+.c1{
+	stroke: #f8ecf2;
+	stroke-width: 2px;
+	fill: #cc66ff;
+}
+
+.r1{
+	stroke: #ffe6f2;
+	stroke-width: 2px;
+	fill: #ff80c1;
+}
+
+.p1{
+	stroke: #e0ebeb;
+	stroke-width: 2px;
+	fill: #00b3b3;
+}
+
