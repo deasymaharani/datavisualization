@@ -24,7 +24,8 @@
 
 .image{
 	margin: 0 auto;
-	width: 300px;
+    width: 300px;
+    display: block;
 }
 
 .chart{
